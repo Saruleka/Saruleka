@@ -27,7 +27,7 @@ class Saruleka:
                     "JavaScript", "HTML", "CSS", "SQL"]
 
     currentlyLearning = [
-        "Full Stack Development (React, Node.js)",
+        "Full Stack Development",
         "Advanced DSA & Problem Solving",
         "System Design Fundamentals",
         "Machine Learning (Scikit-learn)",
@@ -103,13 +103,6 @@ class Saruleka:
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saruleka&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" />
-</div>
-
----
 
 ## 🚀 Featured Projects
 
