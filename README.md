@@ -15,8 +15,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ```python
 class Saruleka:
     name         = "Saruleka P"
@@ -29,6 +27,7 @@ class Saruleka:
                     "JavaScript", "HTML", "CSS", "SQL"]
 
     currentlyLearning = [
+        "Full Stack Development (React, Node.js)",
         "Advanced DSA & Problem Solving",
         "System Design Fundamentals",
         "Machine Learning (Scikit-learn)",
@@ -40,8 +39,6 @@ class Saruleka:
     def motto(self):
         return "Ship it. Measure it. Improve it. 🚀"
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -81,10 +78,10 @@ class Saruleka:
 
 <div align="center">
   <a href="https://github.com/saruleka">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saruleka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saruleka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
   </a>
   <a href="https://github.com/saruleka">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saruleka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saruleka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
   </a>
 </div>
 
@@ -109,7 +106,7 @@ class Saruleka:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saruleka&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saruleka&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" />
 </div>
 
 ---
@@ -162,6 +159,7 @@ class Saruleka:
 ## 🌱 Currently Learning
 
 ```
+🖥️ Full Stack Development        →  React, Node.js, advanced Flask patterns
 🧱 Data Structures & Algorithms  →  Trees, Graphs, DP, Sliding Window
 🌐 System Design                 →  REST best practices, DB normalization
 🤖 Machine Learning              →  Regression, Classification, Scikit-learn
