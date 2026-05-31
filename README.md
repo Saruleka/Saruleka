@@ -77,10 +77,10 @@ class Saruleka:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/saruleka">
+  <a href="https://github.com/Saruleka">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saruleka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
   </a>
-  <a href="https://github.com/saruleka">
+  <a href="https://github.com/Saruleka">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saruleka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
   </a>
 </div>
@@ -98,7 +98,7 @@ class Saruleka:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saruleka&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saruleka&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 ---
@@ -106,7 +106,7 @@ class Saruleka:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saruleka&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saruleka&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" />
 </div>
 
 ---
@@ -117,10 +117,10 @@ class Saruleka:
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |:---|:---|:---|
-| [**Payroll System**](https://github.com/saruleka) | Python · Flask · SQLite · HTML · CSS | Improved logic reuse **40%** via design patterns; reduced payroll processing time; admin dashboards boosted tracking efficiency by **50%** |
-| [**Smart Attendance System**](https://github.com/saruleka) | Python · Flask · SQLite · REST API | Full-stack RBAC system; reduced manual admin effort by **70%**; normalized DB with secure data handling |
-| [**Menstrual Cycle & Ovulation Predictor**](https://github.com/saruleka) | Python · Flask · SQLite · Scikit-learn | Regression model R²=**0.84**; REST API + classification model for cycle irregularity detection |
-| [**Online Bridge Card Game**](https://github.com/saruleka) | Python · Flask · OOP · Sessions | 4-player concurrent multiplayer; rule-based game engine; validated via multiplayer state-sync testing |
+| [**Payroll System**](https://github.com/Saruleka) | Python · Flask · SQLite · HTML · CSS | Improved logic reuse **40%** via design patterns; reduced payroll processing time; admin dashboards boosted tracking efficiency by **50%** |
+| [**Smart Attendance System**](https://github.com/Saruleka) | Python · Flask · SQLite · REST API | Full-stack RBAC system; reduced manual admin effort by **70%**; normalized DB with secure data handling |
+| [**Menstrual Cycle & Ovulation Predictor**](https://github.com/Saruleka) | Python · Flask · SQLite · Scikit-learn | Regression model R²=**0.84**; REST API + classification model for cycle irregularity detection |
+| [**Online Bridge Card Game**](https://github.com/Saruleka) | Python · Flask · OOP · Sessions | 4-player concurrent multiplayer; rule-based game engine; validated via multiplayer state-sync testing |
 
 </div>
 
@@ -176,10 +176,10 @@ class Saruleka:
   <a href="mailto:sarulekaprakasam@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/saruleka">
+  <a href="https://www.linkedin.com/in/saruleka-p">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/saruleka">
+  <a href="https://github.com/Saruleka">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </div>
